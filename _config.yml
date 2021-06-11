@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale                   : "zh-CN"
 title                    : "无知者无畏"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "记录编码生活的点滴。"
 name                     : "胡嘉鑫(Jackson Hu)"
 description              : "记录编码生活的点滴。"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
