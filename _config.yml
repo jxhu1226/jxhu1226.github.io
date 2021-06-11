@@ -24,7 +24,7 @@ description              : "记录编码生活的点滴。"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/shanghai.jpeg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -100,16 +100,16 @@ author:
   location         : "中国，上海"
   email            :
   links:
-    - label: "Email"
+    - label: "tjjxhu@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
-      url: "tjjxhu@gmail.com"
-    - label: "Website"
+      # url: "tjjxhu@gmail.com"
+    - label: "https://jxhu1226.github.io/"
       icon: "fas fa-fw fa-link"
       url: "https://jxhu1226.github.io/"
-    - label: "Wechat"
+    - label: "18101917663"
       icon: "fab fa-fw fa-facebook-square"
-      url: "18101917663"
-    - label: "GitHub"
+      # url: "18101917663"
+    - label: "https://github.com/jxhu1226"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jxhu1226"
 
