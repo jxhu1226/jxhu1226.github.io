@@ -12,13 +12,13 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "zh-CN"
 title                    : "无知者无畏"
 title_separator          : "-"
-subtitle                 : "记录编码生活的点滴。"
+subtitle                 : "记录编码生活的点滴"
 name                     : "胡嘉鑫(Jackson Hu)"
 description              : "记录编码生活的点滴。"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -94,30 +94,24 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "胡嘉鑫 (Jackson Hu)"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Know Nothing."
+  location         : "中国，上海"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "tjjxhu@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
+      url: "https://jxhu1226.github.io/"
+    - label: "Wechat"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "18101917663"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://github.com/jxhu1226"
 
 # Site Footer
 footer:
